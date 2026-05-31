@@ -35,11 +35,19 @@ A full-stack appointment scheduling system built with **Java**, **Spring Boot**,
 
 ---
 
-### [React Career Portfolio Project](https://github.com/wadrien-dev/WoodnaAdrien_Week7_FinalProject)
+### [From Big Dreams to Debugging](PASTE-YOUR-REPOSITORY-LINK-HERE)
 
-A React and TypeScript portfolio project that highlights my software-development journey, technical skills, and career goals.
+An interactive React and TypeScript storytelling website about creativity, problem-solving, leadership, and growing into a software developer.
 
-**Technologies:** React, TypeScript, CSS, reusable components, responsive layouts
+**Highlights:**
+- Multi-page navigation
+- Responsive layouts
+- Reusable components
+- Custom visual theme
+- Dynamic skills table
+- Add and remove functionality using React state
+
+**Technologies:** React, TypeScript, HTML, CSS, responsive design, reusable components, state management
 
 ---
 
